@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RishabKumarSah
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Project Like Full Stalk Devlopment
 - 📫 How to reach me rishabsah202@gmail.com
 
